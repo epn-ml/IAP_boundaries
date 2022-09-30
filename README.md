@@ -11,3 +11,5 @@ The repository consists MATLAB codes to process CLUSTER data
 If user wants to retrieve data, one can use return values, 
 e. g., [epoch, spectra, frequency] = clust_panel_whisper_spec(starttime, tlen, sc);
 The function plot a panel and returns data.
+
+A tutorial on how to work with our machine learning pipeline is available at epn-ml/Tutorial_IAP_Boundaries.
